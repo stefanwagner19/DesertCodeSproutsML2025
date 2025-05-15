@@ -1,3 +1,8 @@
+import random
+
+random.seed(42)
+
+
 class PacmanRewards:
 
     @staticmethod
